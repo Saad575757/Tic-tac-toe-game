@@ -81,4 +81,11 @@
 
 #reset {
     background-color: #FF3860;
+
+}
+#reset:hover{
+    background-color: lightcoral;
+}
+.control:hover{
+    color: lightcyan;
 }
